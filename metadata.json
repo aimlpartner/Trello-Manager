@@ -1,0 +1,6 @@
+{
+  "name": "BrandToPost Command Center",
+  "description": "A Linear-style product execution command center and roadmap manager to track features, release sprints, specifications, and daily targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
